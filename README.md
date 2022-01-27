@@ -1,2 +1,2 @@
 # Week 1 Testing
-![Image](/relative/path/to/Screenshot1.png?raw=true)
+![Screenshot](screenshots/Screenshot1.png)
