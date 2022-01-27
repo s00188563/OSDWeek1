@@ -1,6 +1,6 @@
 import { getCurrencies } from './getCurrencies';
 
-describe('Currency Array', () => {
+describe('Currency Array S00188563 Luigi Fernandez', () => {
   it('it should include USD in the array', () => {
     expect(getCurrencies()).toContain('USD');
   });
